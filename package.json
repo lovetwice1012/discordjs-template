@@ -1,0 +1,22 @@
+{
+  "name": "discordjs-template",
+  "version": "1.0",
+  "description": "Discord.js BOT Template",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fireflower92/discordjs-template.git/"
+  },
+  "author": "katsu(https://github.com/fileflower92/)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
