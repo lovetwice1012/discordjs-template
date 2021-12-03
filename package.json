@@ -12,7 +12,7 @@
     "url": "https://github.com/fireflower92/discordjs-template.git/"
   },
   "author": "katsu(https://github.com/fileflower92/)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1"
   },
