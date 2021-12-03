@@ -1,6 +1,4 @@
 {
   "token": "DiscordBOTのトークン",
-  "prefix": "BOTのプレフィックス",
-  "ownerid": "ボット所有者のユーザーID",
-  "devguild": "開発用サーバーのID"
+  "prefix": "BOTのプレフィックス"
 }
