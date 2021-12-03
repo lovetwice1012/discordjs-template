@@ -13,3 +13,6 @@ client.on("ready", () => {
     );
     console.log(`${client.user.tag} にログインしました。`)
   });
+
+//ログイン
+client.login(config.token)
